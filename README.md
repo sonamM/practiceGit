@@ -1,0 +1,3 @@
+# practiceGit
+
+smaple readme file 
